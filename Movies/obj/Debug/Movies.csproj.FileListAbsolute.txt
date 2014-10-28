@@ -1,0 +1,12 @@
+c:\users\will\documents\visual studio 2013\Projects\Movies\Movies\bin\Debug\Movies.exe.config
+C:\Users\Will\Documents\Visual Studio 2013\Projects\Movies\Movies\bin\Debug\Movies.exe
+C:\Users\Will\Documents\Visual Studio 2013\Projects\Movies\Movies\bin\Debug\Movies.pdb
+C:\Users\Will\Documents\Visual Studio 2013\Projects\Movies\Movies\obj\Debug\Movies.csprojResolveAssemblyReference.cache
+C:\Users\Will\Documents\Visual Studio 2013\Projects\Movies\Movies\obj\Debug\Movies.Properties.Resources.resources
+C:\Users\Will\Documents\Visual Studio 2013\Projects\Movies\Movies\obj\Debug\Movies.csproj.GenerateResource.Cache
+C:\Users\Will\Documents\Visual Studio 2013\Projects\Movies\Movies\obj\Debug\Movies.exe
+C:\Users\Will\Documents\Visual Studio 2013\Projects\Movies\Movies\obj\Debug\Movies.pdb
+C:\Users\Will\Documents\Visual Studio 2013\Projects\Movies\Movies\bin\Debug\Movies.mdf
+C:\Users\Will\Documents\Visual Studio 2013\Projects\Movies\Movies\bin\Debug\Movies_log.ldf
+C:\Users\Will\Documents\Visual Studio 2013\Projects\Movies\Movies\obj\Debug\Movies.Form1.resources
+C:\Users\Will\Documents\Visual Studio 2013\Projects\Movies\Movies\obj\Debug\Movies.Form2.resources
